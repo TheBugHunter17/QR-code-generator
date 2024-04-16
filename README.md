@@ -27,4 +27,4 @@ This project allows users to generate QR codes from text or URLs and toggle betw
 
 Contributions are welcome! Please open an issue or submit a pull request if you find any bugs or want to suggest improvements.
 
-Hosted links:
+Hosted links: https://661e2257ca264a998603b135--chipper-pudding-8b93b0.netlify.app/
